@@ -47,7 +47,7 @@ The dashboard provides an interactive view of:
 ---
 
 ## 🖼 Dashboard Preview
-(C:\Users\User\Pictures\Screenshots\Dashboard.png.png)
+(!C:\Users\User\Pictures\Screenshots\Dashboard.png.png)
 
 ---
 
